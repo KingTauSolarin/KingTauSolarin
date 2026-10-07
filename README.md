@@ -2,7 +2,7 @@
 
 ### Cybersecurity | Ethical Hacking | Security Tool Development
 
-I'm a cybersecurity practitioner-in-training and developer focused on **penetration testing, vulnerability assessment, security tooling, and bug bounty hunting**.
+I'm a cybersecurity practitioner-in-training and developer focused on **penetration testing, vulnerability assessment, security tooling, security automation, and bug bounty hunting**.
 
 I learn cybersecurity by building practical projects, testing in authorized environments, documenting what I learn, and continuously improving my technical skills.
 
@@ -14,39 +14,56 @@ I learn cybersecurity by building practical projects, testing in authorized envi
 
 ### 🔎 [Recon Engine](https://github.com/KingTauSolarin/Recon-Engine)
 
-A practical cybersecurity reconnaissance project developed to explore and automate the reconnaissance phase of security assessments.
+A practical cybersecurity reconnaissance project developed to structure and automate reconnaissance activities during security assessments.
 
-**Focus:** Reconnaissance · Information Gathering · Automation · Python · Security Assessment
+**Focus areas:**
+`Reconnaissance` · `Information Gathering` · `Enumeration` · `Automation` · `Python` · `Security Assessment`
 
 ---
 
 ### ⚔️ [Security Assessment Engine](https://github.com/KingTauSolarin/Security-Assessment-Engine)
 
-A practical security assessment project focused on applying cybersecurity assessment techniques in an authorized environment.
+A practical security assessment project focused on analyzing security weaknesses, conducting controlled security testing, collecting evidence, and producing useful findings.
 
-**Focus:** Security Assessment · Vulnerability Analysis · Ethical Hacking · Reporting
+**Focus areas:**
+`Vulnerability Assessment` · `Ethical Hacking` · `Security Testing` · `Evidence Collection` · `Reporting`
+
+---
+
+### 🎣 [Phishing Link Analyzer](https://kingtausolarin.github.io/phishing-link-analyzer/)
+
+A browser-based security tool for analyzing suspicious URLs and identifying indicators that may suggest a phishing or scam link.
+
+Paste a suspicious link and the analyzer evaluates characteristics of the URL to help explain **why it may be risky**.
+
+**Focus areas:**
+`Phishing Detection` · `URL Analysis` · `Security Heuristics` · `Web Security` · `JavaScript`
+
+🌐 **[Live Demo](https://kingtausolarin.github.io/phishing-link-analyzer/)**
+💻 **[Source Code](https://github.com/KingTauSolarin/phishing-link-analyzer)**
 
 ---
 
 ### 🔐 [Hash & Encoding Toolkit](https://github.com/KingTauSolarin/hash-toolkit)
 
-A lightweight browser-based security utility for hashing, message authentication, and encoding.
+A lightweight browser-based security utility for hashing text and files, generating HMACs, and working with common encoding formats.
 
-* Text and file hashing
-* HMAC
-* Common encoding operations
-* Runs entirely client-side
-* No installation or server required
+The application runs entirely client-side.
+
+**Focus areas:**
+`Cryptography` · `Hashing` · `HMAC` · `Encoding` · `JavaScript` · `Web Development`
 
 🌐 **[Live Demo](https://kingtausolarin.github.io/hash-toolkit/)**
+💻 **[Source Code](https://github.com/KingTauSolarin/hash-toolkit)**
 
 ---
 
 ### 🛡️ [King Sabatsu Kisuke](https://github.com/KingTauSolarin/King-Sabatsu-Kisuke)
 
-A cybersecurity software project built while developing my practical programming and security skills.
+A cybersecurity software project developed while expanding my practical programming, security-tool development, and application-building skills.
 
-**Focus:** Python · Cybersecurity · Security Tool Development
+**Focus areas:**
+`Python` · `Cybersecurity` · `Security Tool Development` · `Application Development`
 
 ---
 
@@ -58,39 +75,41 @@ My largest cybersecurity software project currently under development.
 
 Sentinel is being designed as a **modular cybersecurity platform** combining security tooling, automation, intelligence, analysis, and reporting.
 
-The project is being developed as a larger private/commercial product, so its repository and implementation details are not currently public.
+It is currently being developed as a **private/commercial project**, so the repository and implementation details are not publicly available.
 
 ---
 
-## 🔬 Areas of Practice
+## 🔬 Cybersecurity Focus
 
-* 🔎 Reconnaissance
-* 🌐 Web Security
-* 🧪 Vulnerability Assessment
-* ⚔️ Ethical Hacking
-* 🐍 Python Security Tooling
-* 🔐 Cryptography Fundamentals
-* 📊 Security Reporting
-* 🤖 Security Automation
-* 🐧 Linux
-* 🪟 Windows
-* 🧰 Command-Line Security Tools
+My practical work covers several areas of cybersecurity, including:
 
-All offensive security testing is performed against systems and environments where I have authorization.
+* 🔎 Reconnaissance and information gathering
+* 🌐 Web application security
+* 🎣 Phishing and URL analysis
+* 🧪 Vulnerability assessment
+* ⚔️ Ethical hacking
+* 🔐 Cryptography and hashing
+* 📊 Security analysis and reporting
+* 🤖 Security automation
+* 🐍 Python security tooling
+* 🐧 Linux security environments
+* 🪟 Windows security environments
+
+All offensive security testing is performed against **authorized systems and laboratory environments**.
 
 ---
 
 ## 💻 Technologies
 
-**Languages**
+### Programming
 
 `Python` · `JavaScript` · `HTML` · `CSS`
 
-**Security**
+### Cybersecurity
 
-`Reconnaissance` · `VAPT` · `Web Security` · `Ethical Hacking` · `Security Automation`
+`Reconnaissance` · `VAPT` · `Ethical Hacking` · `Web Security` · `Security Automation` · `Cryptography`
 
-**Tools & Platforms**
+### Tools & Platforms
 
 `Git` · `GitHub` · `Linux` · `Windows` · `VS Code` · `Termux`
 
@@ -102,13 +121,13 @@ All offensive security testing is performed against systems and environments whe
 * **Google Cybersecurity Certificate**
 * **Google IT Support Certificate**
 * **EC-Council Ethical Hacking Essentials**
-* Cybersecurity Bootcamp Training
+* **Cybersecurity Bootcamp Training**
 
-I combine formal training with hands-on projects to turn what I learn into practical skills.
+I combine formal training with hands-on projects to turn what I learn into practical technical skills.
 
 ---
 
-## 🎯 What I'm Working Toward
+## 🎯 Career Direction
 
 I'm building toward a career in:
 
@@ -130,6 +149,8 @@ My goal is to become a security professional who can **identify vulnerabilities,
 
 ## 🧠 My Learning Philosophy
 
+I believe cybersecurity skills are developed through continuous practical work:
+
 ```text
 Learn
   ↓
@@ -148,25 +169,29 @@ Document
 Repeat
 ```
 
-I believe cybersecurity skills are built through **consistent hands-on practice**, not certificates alone.
+Certificates provide knowledge.
+
+**Projects provide evidence.**
+
+That's why I focus on building, testing, and documenting practical work alongside formal training.
 
 ---
 
-## 📈 GitHub
+## 📁 Portfolio
 
-This profile documents my journey through cybersecurity, software development, and security research.
+My broader cybersecurity portfolio contains project documentation, internship work, certifications, reports, and selected evidence of practical experience.
 
-I use GitHub to publish selected projects, document my work, and build a public record of practical technical experience.
-
-Some projects remain private when they are part of larger commercial or security-sensitive work.
+**Portfolio:** Coming soon
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-💼 **LinkedIn:** [linkedin.com/in/nelson-king-7547b61a9](https://www.linkedin.com/in/nelson-king-7547b61a9)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nelson-king-7547b61a9/)
 
 📧 **Email:** [andorien359@gmail.com](mailto:andorien359@gmail.com)
+
+💻 **GitHub:** [KingTauSolarin](https://github.com/KingTauSolarin)
 
 ---
 
